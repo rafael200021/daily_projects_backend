@@ -16,3 +16,7 @@ This is the **backend** for the Daily Projects project. It provides the API and 
 - **MariaDB**: Database for storing user and card data.
 - **Entity Framework Core**: ORM library for MariaDB.
 - **JWT**: For secure user authentication and authorization.
+
+## Contributing
+
+Feel free to open issues or submit pull requests to improve the backend.
